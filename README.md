@@ -1,2 +1,2 @@
-# RyoBot
+# ThorfinnBot
 My Discord bot
